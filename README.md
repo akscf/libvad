@@ -1,2 +1,2 @@
 # libvad
-Small, portable VAD library
+Small, portable VAD library, developed for SmartIVR
